@@ -1,0 +1,9 @@
+﻿  Ledo.cpp
+C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Ledo.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Ledo.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Ledo.cpp(321,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Ledo.cpp(384,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Ledo.cpp(465,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Ledo.cpp(489,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Ledo.cpp(519,20): warning C4018: '<': signed/unsigned mismatch
+  Ledo.vcxproj -> C:\Users\blitz\Desktop\AUM\Fall 2020\Software Engineering\Ledo\Debug\Ledo.exe
